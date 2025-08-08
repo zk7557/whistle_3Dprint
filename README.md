@@ -10,7 +10,7 @@ Just a whistle. It generates sound at 2.8 kHz.
 
 ### V1.1_doubleSize
 
-Frequency test with double drum size.
+Frequency test with double drum size. It does not make sound. The wall design is bad.
 
 
 ## V2_square
@@ -19,4 +19,4 @@ Reduce size for simple design, also for potentially frequency shift. 3.9 kHz.
 
 ## V3_enclosed
 
-Expand the output tube a little.
+Expand the output tube a little. It does not make sound. 

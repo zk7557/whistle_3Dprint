@@ -20,3 +20,7 @@ Reduce size for simple design, also for potentially frequency shift. 3.9 kHz.
 ## V3_enclosed
 
 Expand the output tube a little. It does not make sound. 
+
+### V3.1_largerOpening
+
+Increase the opening of V3.

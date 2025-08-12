@@ -23,4 +23,4 @@ Expand the output tube a little. It does not make sound.
 
 ### V3.1_largerOpening
 
-Increase the opening of V3.
+Increase the opening of V3. Still no sound. Based on the noise, the opening has to be bigger.
